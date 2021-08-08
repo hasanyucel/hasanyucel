@@ -1,3 +1,4 @@
+<h2>Statics</h2>
 <div>
   <img height = "180em" src= "https://github-readme-stats.vercel.app/api?username=hasanyucel&show_icons=true&theme=radical&count_private=true&include_all_commits=true">
   <img height = "180em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=hasanyucel&layout=compact)](https://github.com/hasanyucel/github-readme-stats">
@@ -11,10 +12,10 @@
   <img align = "center" alt = "Hasan-Arduino" height = "60" width = "80" src= "https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg">
   <img align = "center" alt = "Hasan-RaspberryPi" height = "60" width = "80" src= "https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg">
   <img align = "center" alt = "Hasan-Trello" height = "60" width = "80" src= "https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg">
-</div>
+</div><br><br>
 
-
+<h2>Contact</h2>
 <div> 
   <a href="https://api.whatsapp.com/send?phone=905533828531" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-  <a href="mailto:hasanyucel34@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="mailto:hasanyucel34@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
