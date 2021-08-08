@@ -1,4 +1,4 @@
-<h2>Statics</h2>
+<h2>HASAN HÜSEYİN YÜCEL</h2>
 <div>
   <img height = "180em" src= "https://github-readme-stats.vercel.app/api?username=hasanyucel&show_icons=true&theme=radical&count_private=true&include_all_commits=true">
   <img height = "180em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=hasanyucel&layout=compact)](https://github.com/hasanyucel/github-readme-stats">
