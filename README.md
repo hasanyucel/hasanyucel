@@ -1,5 +1,12 @@
 <h2>HASAN HÜSEYİN YÜCEL</h2>
 <div>
+  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=hasanyucel.hasanyucel">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;Nice+to+meet+you!&center=false&size=30">
+  </a>
+</div><br>
+<h2>Github Stats</h2>
+<div><br>
   <img height = "180em" src= "https://github-readme-stats.vercel.app/api?username=hasanyucel&show_icons=true&theme=radical&count_private=true&include_all_commits=true">
   <img height = "180em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=hasanyucel&layout=compact)](https://github.com/hasanyucel/github-readme-stats">
 </div><br><br>
