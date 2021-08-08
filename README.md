@@ -4,5 +4,5 @@
 </div>
 
 <div style = "display: inline_block"><br>
-  <img align = "center" alt = "Hasan-Python" height = "30" width = "40" src= "https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg">
+  <img align = "center" alt = "Hasan-Python" height = "60" width = "80" src= "https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
 </div>
