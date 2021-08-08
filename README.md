@@ -1,6 +1,6 @@
 <div>
-  ![Hasan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hasanyucel&show_icons=true&theme=radical)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasanyucel&layout=compact)](https://github.com/hasanyucel/github-readme-stats)
+  <img height = "180em" src= "https://github-readme-stats.vercel.app/api?username=hasanyucel&show_icons=true&theme=radical">
+  <img height = "180em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=hasanyucel&layout=compact)](https://github.com/hasanyucel/github-readme-stats">
 </div>
 <!--
 **hasanyucel/hasanyucel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
