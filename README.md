@@ -91,10 +91,12 @@ I share notes, solutions, and examples mostly around IFS ERP and software develo
 ## 🛠️ Technologies
 
 <p align="left">
+  <img alt="IFS ERP" src="https://img.shields.io/badge/IFS%20ERP-7B2CBF?style=for-the-badge&logoColor=white">
+  <img alt="Oracle" height="55" width="65" src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg">
+  <img alt="Power BI" height="55" width="65" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg">
   <img alt="Python" height="55" width="65" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
   <img alt="CSharp" height="55" width="65" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg">
   <img alt="Java" height="55" width="65" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
-  <img alt="Oracle" height="55" width="65" src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg">
   <img alt="Visual Studio" height="55" width="65" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg">
   <img alt="Git" height="55" width="65" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
   <img alt="Arduino" height="55" width="65" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg">
