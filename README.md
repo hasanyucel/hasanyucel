@@ -103,18 +103,6 @@ I share notes, solutions, and examples mostly around IFS ERP and software develo
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hasanyucel&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasanyucel&layout=compact&theme=radical" />
-</p>
-
----
-
 ## 🌐 Contact & Profiles
 
 <p align="left">
